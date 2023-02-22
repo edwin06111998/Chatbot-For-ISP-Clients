@@ -1,6 +1,6 @@
 
 <h1 align="center">  
-  <img src="https://user-images.githubusercontent.com/54828392/220443356-ec007848-6841-41bd-bfb4-4264fbdf929d.png" alt="Chatbot" width="500"></a>
+  <img src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Logo.png" alt="Chatbot" width="500"></a>
   <br>
 </h1>
 
@@ -46,37 +46,37 @@ Estas son algunas de las características del sistema de monitoreo:
 
 <p align="center">
   <h3>Menú de inicio</h3>
-  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Inicio.png?token=GHSAT0AAAAAAB64XCUL6NCGMZCQ5KWRKRIKY7VVD5Q" alt="Inicio">
+  <img width="1000" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Inicio.png" alt="Inicio">
   El asistente virtual es capaz de reconocer un saludo y enviar un mensaje de bienvenida al usuario, en el cual mostrarle diferentes opciones a las cuales acceder.
 </p>
 
 <p align="center">
   <h3>Menú de cliente</h3>
-  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Menu%20cliente.png?token=GHSAT0AAAAAAB64XCUL4N4NT7ADY2AMOJ2IY7VVHVQ" alt="Menú cliente">
+  <img width="1000" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Menu%20cliente.png" alt="Menú cliente">
   Se realiza una conexión vía API con el sistema de administración de clientes ISP para extraer la información de los clientes.
 </p>
 
 <p align="center">
   <h3>Proceso para reportar pagos</h3>
-  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Proceso%20pago.png?token=GHSAT0AAAAAAB64XCUKGG236WYOGK7HOGZEY7VVJIA" alt="Reportar Pago">
+  <img width="1000" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Proceso%20pago.png" alt="Reportar Pago">
   Se valida el vóucher utilizando la tecnología implementada en mi otro repositorio https://github.com/edwin06111998/OCR-Vouchers-Ecuador-GCloud. Posterior a ello, se acepta o denega el vóucher dependiendo su validez.
 </p>
 
 <p align="center">
   <h3>Configurar remótamente router Wi-Fi</h3>
-  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Proceso%20WiFi.png?token=GHSAT0AAAAAAB64XCUKWOI7KYB2PFBIH26UY7WKCRA" alt="Configurar Wi-Fi">
+  <img width="1000" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Proceso%20WiFi.png" alt="Configurar Wi-Fi">
   El asistente es capaz de conectarse a los servidores que controlan los equipos Wi-Fi, y permite configurar su clave, nombre, dispositivos conectados, estado de la red (oculto/visible).
 </p>
 
 <p align="center">
   <h3>Soporte Técnico</h3>
-  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Soporte%20t%C3%A9cnico.png?token=GHSAT0AAAAAAB64XCUKPTYFRRIZETVXOEYOY7VV33A" alt="Soporte Técnico">
+  <img width="1000" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Soporte%20t%C3%A9cnico.png" alt="Soporte Técnico">
   Permite que cualquier cliente pueda registrar un ticket de atención al cliente, cada ticket se registra automáticamente con los datos del cliente, esto ahorra en promedio un 40% de trabajo humano para el departamento técnico.
 </p>
 
 <p align="center">
   <h3>Solicitud de instalación</h3>
-  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Solicitud%20instalacion.png?token=GHSAT0AAAAAAB64XCUKCU3UOF657YQ2GSCIY7VV3XA" alt="Solicitud de instalación">
+  <img width="1000" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Solicitud%20instalacion.png" alt="Solicitud de instalación">
  Los nuevos usuarios pueden ingresar una solicitud de instalación desde el asistente virtual, de esta manera recibirá una pronta respuesta si necesidad de movilizarse físicamente a las oficinas de la empresa ISP.
 </p>
 
