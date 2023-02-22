@@ -7,12 +7,7 @@
 <h4 align="center">Configurado para WhatsApp y Facebook Messenger</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  Manychat es la plataforma usada para construir los flujos y administrar las conversaciones
 </p>
 
 <p align="center">
@@ -51,7 +46,38 @@ Estas son algunas de las características del sistema de monitoreo:
 
 <p align="center">
   <h3>Menú de inicio</h3>
-  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Inicio.png?token=GHSAT0AAAAAAB64XCUL5WHWTLDTB3ZXRWLMY7VI2CA">
+  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Inicio.png?token=GHSAT0AAAAAAB64XCUL6NCGMZCQ5KWRKRIKY7VVD5Q">
+  El asistente virtual es capaz de reconocer un saludo y enviar un mensaje de bienvenida al usuario, en el cual mostrarle diferentes opciones a las cuales acceder.
+</p>
+
+<p align="center">
+  <h3>Menú de cliente</h3>
+  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Menu%20cliente.png?token=GHSAT0AAAAAAB64XCUL4N4NT7ADY2AMOJ2IY7VVHVQ">
+  Se realiza una conexión vía API con el sistema de administración de clientes ISP para extraer la información de los clientes.
+</p>
+
+<p align="center">
+  <h3>Proceso para reportar pagos</h3>
+  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Proceso%20pago.png?token=GHSAT0AAAAAAB64XCUKGG236WYOGK7HOGZEY7VVJIA">
+  Se valida el vóucher utilizando la tecnología implementada en mi otro repositorio https://github.com/edwin06111998/OCR-Vouchers-Ecuador-GCloud. Posterior a ello, se acepta o denega el vóucher dependiendo su validez.
+</p>
+
+<p align="center">
+  <h3>Configurar remótamente router Wi-Fi</h3>
+  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Proceso%20WiFi.png?token=GHSAT0AAAAAAB64XCULVEO7LZLRU3IG7B2EY7VVWDA">
+  El asistente es capaz de conectarse a los servidores que controlan los equipos Wi-Fi, y permite configurar su clave, nombre, dispositivos conectados, estado de la red (oculto/visible).
+</p>
+
+<p align="center">
+  <h3>Soporte Técnico</h3>
+  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Soporte%20t%C3%A9cnico.png?token=GHSAT0AAAAAAB64XCUKPTYFRRIZETVXOEYOY7VV33A">
+  Permite que cualquier cliente pueda registrar un ticket de atención al cliente, cada ticket se registra automáticamente con los datos del cliente, esto ahorra en promedio un 40% de trabajo humano para el departamento técnico.
+</p>
+
+<p align="center">
+  <h3>Solicitud de instalación</h3>
+  <img width="1000" src="https://raw.githubusercontent.com/edwin06111998/Imagenes/main/Proceso%20Chatbot/Solicitud%20instalacion.png?token=GHSAT0AAAAAAB64XCUKCU3UOF657YQ2GSCIY7VV3XA">
+ Los nuevos usuarios pueden ingresar una solicitud de instalación desde el asistente virtual, de esta manera recibirá una pronta respuesta si necesidad de movilizarse físicamente a las oficinas de la empresa ISP.
 </p>
 
 ## Retroalimentación
@@ -62,18 +88,7 @@ Siéntete libre de comentarme tu experiencia utilizando este sistema, puedes esc
 
 Este proyecto ha sido desarrollado únicamente por mí (Edwin Veloz).
 
-## Proceso de construcción
-
-- Clona o descarga el repositorio
-- Crea una aplicación en Facebook para usar la API de WhatsApp
-- Obtén un token permanente y el ID de la aplicación
-- Crea las plantillas en Facebook para los mensajes de alerta
-- Ingresa el token y ID en el archivo send_message.py
-- Modifica el "filepath" ingresando la ruta del repositorio en los archivos ping.py y antennas.py
-- Ingresa las IPs en el archivo ips.txt y los destinatarios en el archivo numbers.txt
-- Ejecuta ping.py y antennas.py
-
-Importante: para ejecutar el código 24/7, puedes implementarlo en un servidor Linux y usar comandos como "crontab -e" para ejecutar el código cada determinado tiempo.
+Importante: Manychat es el administrador de conversaciones utilizado para crear los flujos de este asistente virtual, sin embargo, se puede usar cualquier otro BSP que permita realizar conexiones vía API mediante protocolos (HTTP/HTTPS).
 
 ## Contacto
 
