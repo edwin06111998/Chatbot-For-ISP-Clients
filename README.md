@@ -29,7 +29,7 @@ Asistente virtual capaz de interpretar mensajes con Inteligencia Aritificial, pe
 
 Funciona con un sistema de botoneras que brinda una mejor experiencia de usuario.
 
-**Dispinible para WhatsApp, Facebook Messenger, Telegram, Instagram**
+**Disponible para WhatsApp, Facebook Messenger, Telegram, Instagram**
 
 ## Funciones
 
