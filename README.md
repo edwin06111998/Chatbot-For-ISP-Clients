@@ -7,7 +7,7 @@
   Soy un asistente virtual capaz de automatizar procesos de lógica de negocio para empresas que trabajan con servicio al cliente, ¡soy muy bueno para comprender la intención y el contexto de los mensajes!
 </p>
 
-![video_demo](/images/video_demo.gif)
+[![Miniatura del video](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=1EHAPgJV1sc)
 
 ## Tabla de contenidos
 
